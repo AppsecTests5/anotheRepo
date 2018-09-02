@@ -9,7 +9,7 @@
     <name>tod1list-web-struts Maven Webapp</name>
 
     <properties>
-        <spring.version>3.2.6.RELEz00000ASE</spring.version>
+        <spring.version>3.2.6.RELEz000003&lt;h1&gt;aaaa&lt;/h1&gt;ASE</spring.version>
         <hibernate.version>4.3.7.Fiz111111nal</hibernate.version>
         <tapestry.version>5.3.8z2222222</tapestry.version>
         <struts2.version>2.3.20z33333&lt;h1&gt;aaaa&lt;/h1&gt;</struts2.version>
