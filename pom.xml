@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     
-    <modelVersion>4.0.0</modelVersion>
+    <modelVersion>5.0.0</modelVersion>
     <artifactId>todolist-web-struts</artifactId>
-    <groupId>io.github.snyk</groupId>
+    <groupId>io.github.snk</groupId>
     <version>0.0.1</version>
     <packaging>war</packaging>
-    <name>todolist-web-struts Maven Webapp</name>
+    <name>tod1list-web-struts Maven Webapp</name>
 
     <properties>
         <spring.version>3.2.6.RELEz00000ASE</spring.version>
