@@ -1,18 +1,18 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     
-    <modelVersion>5.0.0</modelVersion>
+    <modelVersion>4.0.0</modelVersion>
     <artifactId>todolist-web-struts</artifactId>
-    <groupId>io.github.snk</groupId>
+    <groupId>io.github.snyk</groupId>
     <version>0.0.1</version>
     <packaging>war</packaging>
-    <name>tod1list-web-struts Maven Webapp</name>
+    <name>todolist-web-struts Maven Webapp</name>
 
     <properties>
-        <spring.version>3.2.6.RELEz000003&lt;h1&gt;aaaa&lt;/h1&gt;ASE</spring.version>
+        <spring.version>3.2.6.RELEz00000{{5-1}} ${5-1} {5-1} ASE</spring.version>
         <hibernate.version>4.3.7.Fiz111111nal</hibernate.version>
         <tapestry.version>5.3.8z2222222</tapestry.version>
-        <struts2.version>2.3.20z33333&lt;h1&gt;aaaa&lt;/h1&gt;</struts2.version>
+        <struts2.version>2.3.20z33333</struts2.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
